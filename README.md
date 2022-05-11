@@ -82,3 +82,5 @@ The balanced accuracy score improved to 87%. The high_risk precision is 3%.
 <img width="600" alt="Screen Shot 2022-05-10 at 3 44 41 PM" src="https://user-images.githubusercontent.com/96352751/167709775-44c98d0e-0548-4e3c-a33b-0653ba63ac3e.png">
 
 <img width="600" alt="Screen Shot 2022-05-10 at 3 45 12 PM" src="https://user-images.githubusercontent.com/96352751/167709808-2892fcf5-c7f9-4ca6-a1d3-3db6c8c46972.png">
+
+Here, the accuracy score is 87%. This model mirrors the previous.
