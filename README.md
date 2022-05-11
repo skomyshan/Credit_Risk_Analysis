@@ -84,3 +84,7 @@ The balanced accuracy score improved to 87%. The high_risk precision is 3%.
 <img width="600" alt="Screen Shot 2022-05-10 at 3 45 12 PM" src="https://user-images.githubusercontent.com/96352751/167709808-2892fcf5-c7f9-4ca6-a1d3-3db6c8c46972.png">
 
 Here, the accuracy score is 87%. This model mirrors the previous.
+  
+## Summary
+  
+All the models used to perform the credit risk analysis show that although the logisitc models provide strong precision results, the accuracy and recall of the models is not within an acceptable range for the product we're trying to develop in our study.
